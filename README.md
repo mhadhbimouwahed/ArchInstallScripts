@@ -3,7 +3,6 @@
 This repo is a guide I created for installing Arch Linux (Or any other distro if you want) from scratch. It includes several scripts for installing the main tools I use on my different machines split into different categories.
 
 - All information is extracted and heavily inspired by the Arch Wiki.
-- For tips and tricks on managing and improving your experience on Arch Linux, checkout [this](https://chedlyzouche.me/blog/arch-linux-tweaks) blog post.
 
 # Getting started
 
