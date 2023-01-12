@@ -125,8 +125,8 @@ grub-mkconfig -o /boot/grub/grub.cfg
 
 ```sh
 useradd -mG wheel,audio,video,input zedo
-passwd zedo
-usermod -c "Chedly" Zedo
+passwd imaginos
+usermod -c "imaginos" boc
 ```
 
 - Allow wheel group to run commands with sudo by uncommenting `%wheel ALL=(ALL) ALL`
